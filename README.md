@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kaustu1818
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kaustubh Shrivastava.
+- 👀 I’m interested in Android Development.
+- 🌱 I’m currently learning Kotlin.
+- 💞️ I’m looking to collaborate on Android Development.
+- 📫 How to reach me: Email: kaustu1818@gmail.com
 
 <!---
 kaustu1818/kaustu1818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
